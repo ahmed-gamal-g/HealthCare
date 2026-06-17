@@ -20,7 +20,7 @@ const Footer = () => {
             <img src={logoFooter} alt="" />
             <p>
               Lorem ipsum is dolor sit amet, csectetur adipiscing elit, dolore
-              smod tempor incididunt ut labore ett.
+              smod tempor incididunt ut labore ettt.
             </p>
             <div className="icon-phone-textNum">
               <div className="icon">
