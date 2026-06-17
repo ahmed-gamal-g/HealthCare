@@ -9,7 +9,7 @@ import iconFooter1 from "../../assets/images/icon-face.png";
 import iconFooter2 from "../../assets/images/icon-twitter.png";
 import iconFooter3 from "../../assets/images/icon-instagram.png";
 import iconFooter4 from "../../assets/images/icon-linkedin.png";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
