@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  font-family: 'Almarai', sans-serif !important;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+:root {
+  --main-color : #1f2278;
+  --orange-color: #f17732;
+  --btn-color: #565acf;
+}
